@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single" >
+        <item
+            android:id="@+id/camera"
+            android:icon="@mipmap/ic_launcher"
+            android:title="Camer"
+            android:actionLayout="@layout/item_personal_note"/>
+        <item
+            android:id="@+id/proto"
+            android:icon="@mipmap/ic_launcher"
+            android:title="Camera" />
+        <item
+            android:id="@+id/gallery"
+            android:icon="@mipmap/ic_launcher"
+            android:title="Camera" />
+        <item
+            android:id="@+id/settins"
+            android:icon="@mipmap/ic_launcher"
+            android:title="Camera" />
+        <item
+            android:id="@+id/settngs"
+            android:icon="@mipmap/ic_launcher"
+            android:title="Camera" />
+        <item
+            android:id="@+id/settis"
+            android:icon="@mipmap/ic_launcher"
+            android:title="Camera" />
+        <item
+            android:id="@+id/sings"
+            android:icon="@mipmap/ic_launcher"
+            android:title="Camera" />
+        <item
+            android:id="@+id/setting"
+            android:icon="@mipmap/ic_launcher"
+            android:title="Camera" />
+        <item
+            android:id="@+id/ettings"
+            android:icon="@mipmap/ic_launcher"
+            android:title="Camera" />
+        <item
+            android:id="@+id/sttings"
+            android:icon="@mipmap/ic_launcher"
+            android:title="Camera" />
+        <item
+            android:id="@+id/settings"
+            android:icon="@mipmap/ic_launcher"
+            android:title="Camera" />
+        <item
+            android:id="@+id/setings"
+            android:icon="@mipmap/ic_launcher"
+            android:title="Camera" />
+    </group>
+    <group>
+        <item
+            android:id="@+id/stt"
+            android:title="syncsssss"
+            android:icon="@mipmap/ic_launcher"/>
+        <item
+            android:title=""/>
+        <item
+            android:title=""/>
+    </group>
+
+</menu>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="clean_fragment_id" type="id" />
+    <item name="rough_fragment_id" type="id" />
+
+    <item name="cursor_loader_id" type="id" />
+
+    <item name="item_click_support" type="id" />
+</resources>
